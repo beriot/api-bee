@@ -1,0 +1,177 @@
+body{
+    font-family: trebuchet ms,arial,tahoma,verdana,sans-serif;
+}
+
+.bee--lifestyle h2, .bee--cause h2{
+    font-size: 40px;
+    padding-top: 40px;
+}
+.bee--lifestyle p{
+    font-size:23px;
+    padding: 30px 75px;
+    text-align: justify;
+}
+
+.bee--hive{
+    background-color: #212529;
+    color: white
+}
+.bee--hive h2, .bee--queen h2{
+    font-size: 40px;
+    padding-top: 40px;
+}
+.bee--hive p, .bee--queen p{
+    font-size: 23px;
+    padding: 10px 70px 30px 70px;
+    text-align: justify;
+    margin-bottom: 0;
+}
+.bee--queen p{
+    font-size: 23px;
+    padding: 30px 70px 60px 70px;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+.bee--hive img, .bee--queen img{
+    width: 100%;
+}
+
+.bee--cause h2, .bee--cause p{
+    background-color: #212529;
+    color: white;
+    margin-bottom: 0;
+}
+.bee--cause p{
+    font-size:23px;
+    padding: 30px 75px;
+    text-align: justify;
+}
+
+.bee--progress{
+    padding: 40px;
+    margin-left: 13%;
+    width: 80%;
+}
+.bee--progress h2{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.bee--progress .use p, .bee--progress .danger p, .bee--progress .winter p{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.bee--progress .danger, .bee--progress .winter{
+    padding-top: 30px;
+}
+
+.gallery{
+    background-color: #212529;
+    color: white;
+    padding: 40px;
+}
+.gallery h2{
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: #212529;
+    color: white;
+    margin-bottom: 0;
+}
+.galleryVideos{
+    display: flex;
+    justify-content: center;
+}
+
+.btn--moreVideos{
+    margin-top: 15px;
+}
+
+.title--video{
+    color: white;
+    font-family: trebuchet ms,arial,tahoma,verdana,sans-serif;
+}
+.galleryChanel{
+    background-color: #212529;
+    padding: 100px 0 50px 5%;
+}
+
+.galleryChanel--title{
+    color: #FFC107;
+    font-size: 20px;
+    font-family: trebuchet ms,arial,tahoma,verdana,sans-serif;
+    width: 75%;
+    text-align: center;
+    padding-top: 10px;
+}
+.youtube-video-gallery{
+    padding-top: 80px;
+}
+
+.pollution{
+    margin-top: 5%;
+}
+.pollution--city{
+    display: flex;
+flex-wrap: wrap;
+padding: 60px 0 0 10%;
+}
+.city{
+    width: 20%;
+    padding-bottom: 5%;
+}
+.pollution--title, .pollution--question{
+    display: flex;
+    justify-content: center;
+}
+.pollution--question{
+    padding-top: 10px;
+    color: #FFC107;
+}
+.pollution--info{
+    display: flex;
+    justify-content: center;
+}
+.pollution--stat{
+    padding: 20px ;
+}
+.pollution--stat--info{
+    color: #FFC107;
+}
+.weather{
+    background-color: #212529;
+}
+.weather h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    padding-top: 40px;
+}
+.weather--flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.weather--image{
+    width: 180px;
+    padding: 40px 0;
+
+}
+.btn--weather{
+    height: 50px;
+    font-size: 22px;
+    margin-top:100px ;
+}
+footer{
+    background-color: #FFC107;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+footer a{
+    color:black;
+    margin-right: 20px;
+}
